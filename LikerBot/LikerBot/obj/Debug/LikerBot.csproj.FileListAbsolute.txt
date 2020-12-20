@@ -1,0 +1,12 @@
+C:\Users\MWR\source\repos\LikerBot\LikerBot\bin\Debug\LikerBot.exe.config
+C:\Users\MWR\source\repos\LikerBot\LikerBot\bin\Debug\LikerBot.exe
+C:\Users\MWR\source\repos\LikerBot\LikerBot\bin\Debug\LikerBot.pdb
+C:\Users\MWR\source\repos\LikerBot\LikerBot\bin\Debug\WebDriver.dll
+C:\Users\MWR\source\repos\LikerBot\LikerBot\bin\Debug\WebDriver.Support.dll
+C:\Users\MWR\source\repos\LikerBot\LikerBot\bin\Debug\WebDriver.xml
+C:\Users\MWR\source\repos\LikerBot\LikerBot\bin\Debug\WebDriver.Support.xml
+C:\Users\MWR\source\repos\LikerBot\LikerBot\obj\Debug\LikerBot.csprojAssemblyReference.cache
+C:\Users\MWR\source\repos\LikerBot\LikerBot\obj\Debug\LikerBot.csproj.CoreCompileInputs.cache
+C:\Users\MWR\source\repos\LikerBot\LikerBot\obj\Debug\LikerBot.csproj.CopyComplete
+C:\Users\MWR\source\repos\LikerBot\LikerBot\obj\Debug\LikerBot.exe
+C:\Users\MWR\source\repos\LikerBot\LikerBot\obj\Debug\LikerBot.pdb
